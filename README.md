@@ -61,3 +61,6 @@ act push -j test
 
 ## Screenshots
 Add screenshots of the successful Actions run and the Docker Hub repo in a `screenshots/` folder.
+![App running](apprunningimage)
+![GitHub Actions run](githubworkflow)
+![GitHub Docker image](dockerimage)
